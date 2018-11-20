@@ -18,4 +18,5 @@ Creating mesh at run time
 2: effects on speeds
 3: player life (Previously it was 1)
 4: effects while it hits hurdle, now it turns red that informs user with which hurdle he got hit.
+5: Camera jerk on hit with collider
 
